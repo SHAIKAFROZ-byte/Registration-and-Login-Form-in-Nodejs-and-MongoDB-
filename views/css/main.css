@@ -10,6 +10,14 @@
 body{
 	text-align: center !important;
 }
+
+.form-group{
+background-color: #FAEBD7;
+border: 1px solid;
+padding: 10px;
+box-shadow: 5px 10px;
+}
+
 p{
 	margin-top: 20px;
 	font-size: 30px;
