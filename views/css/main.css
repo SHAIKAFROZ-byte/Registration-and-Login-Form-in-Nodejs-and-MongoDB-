@@ -19,11 +19,12 @@ box-shadow: 5px 10px;
 }
 
 p{
-	margin-top: 20px;
+	margin-top: 25px;
+	font-weight: normal;
 	font-size: 30px;
 }
 input{
-	text-align: center;
+	text-align: left;
 }
 .mssg{
 	margin-top: 5px;
