@@ -13,7 +13,7 @@ npm install
 
 ### To Run
 ```
-nodemon server.js
+node server.js
 ```
 
 
